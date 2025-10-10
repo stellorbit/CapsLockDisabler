@@ -4,7 +4,9 @@
 
 ![GenbyAI](https://private-user-images.githubusercontent.com/76532335/499813558-7eec2b6b-5200-44ca-a028-0ab94fcf9ea0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjAwOTI0ODQsIm5iZiI6MTc2MDA5MjE4NCwicGF0aCI6Ii83NjUzMjMzNS80OTk4MTM1NTgtN2VlYzJiNmItNTIwMC00NGNhLWEwMjgtMGFiOTRmY2Y5ZWEwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDEwVDEwMjk0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk1ZjcyNjAwODJmZTllYjEzYjc5NmNmN2Q3MTM2ZDI1NDk1ZWZiZGEwODc5MmI5OTM0OWMyZTdkOTEwYjQ5OGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.lbkN7AOA8LsIloTlPIzQWnf1DUeXWp68gNVP7E0NGak)
 
-**このツールは生成AIツール(Gemini 2.5 Pro)により仕様が決定され、生成されたコードを使用したものです。**
+**このツールは生成AIツール(Gemini 2.5 Pro)により仕様が決定され、生成されたコードを使用したものです。**<br>
+このマークは自分が作成しました。<br>
+配布ページ https://sites.google.com/view/genbyaimark/
 
 ## 🎉New Version:V2
 **Added support for English user interface in addition to Japanese.**
