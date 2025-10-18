@@ -6,7 +6,9 @@
 
 **このツールは生成AIツール(Gemini 2.5 Pro)により仕様が決定され、生成されたコードを使用したものです。**<br>
 このマークは自分が作成しました。<br>
-配布ページ https://sites.google.com/view/genbyaimark/
+配布ページ 
+- https://sites.google.com/view/genbyaimark/
+- https://github.com/stellorbit/Generated_by_AI_Mark
 
 ## 🎉New Version:V2
 **Added support for English user interface in addition to Japanese.**
